@@ -1,0 +1,4 @@
+/**
+ * ClockCycles, conversación  a µs
+ * 
+ */
